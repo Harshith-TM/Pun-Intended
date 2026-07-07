@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Purple">#4F1D95</color>
+    <color name="Gold">#F9A602</color>
+    <color name="BrightSun">#FFD93D</color>
+    <color name="GhostWhite">#F8F9FC</color>
+
+    <color name="primary_color">@color/Purple</color>
+    <color name="secondary_color">@color/Gold</color>
+    <color name="accent_color">@color/BrightSun</color>
+    <color name="card_color">@color/white</color>
+    <color name="text_color">@color/black</color>
+    <color name="divider_color">#101010</color>
+
+</resources>
