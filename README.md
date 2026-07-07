@@ -22,9 +22,9 @@ A simple Android application that fetches and displays random jokes using the Ra
 
 ## 📸 Screenshots
 
-| Home Screen | Joke1 | Joke2 | Joke3 |
-|-------------|----------------|----------------|----------------|
-| ![](Home.jpg) | ![](Joke1.jpg) | ![](Joke2.jpg) | ![](Joke3.jpg) |
+| Home Activity                                 | Joke1 | Joke2 | Joke3 |
+|-----------------------------------------------|----------------|----------------|----------------|
+| ![Home Activity](ProjectScreenShots/Home.jpg) | ![](ProjectScreenShots/Joke1.jpg) | ![](ProjectScreenShots/Joke2.jpg) | ![](ProjectScreenShots/Joke3.jpg) |
 
 ## 📂 Project Structure
 
