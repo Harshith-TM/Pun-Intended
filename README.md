@@ -30,7 +30,7 @@ A simple Android application that fetches and displays random jokes using the Ra
 ```text
 app/
 ├── java/
-│   └── com.example.PunIntended/
+│   └── com.example.punintended/
 │       └── MainActivity.java
 ├── res/
 │   ├── layout/
